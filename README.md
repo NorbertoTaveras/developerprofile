@@ -11,31 +11,31 @@ Full Sail University Alumni🎓</br>
 
 ---
 # Experience</br>
-####Independent Software Developer
+#### Independent Software Developer
 > 2018 - Present
 
-####Full Sail University
+#### Full Sail University
 > Bachelor Of Science - BS, Software Development, GPA 3.09, Valedictorian (2016-2018)</br>
 > Bachelor Of Science - BS, Mobile Development, GPA 3.57, (2018-2020)
 
 ---
 # Skills</br>
-####Programming Languages
+#### Programming Languages
 > Objective-C, Swift, Java, Kotlin, C#, C/C++, Python</br>
 
-####Libraries & Frameworks
+#### Libraries & Frameworks
 > UIKit/Cocoa, CoreBluetooh, Google Maps SDK, MultipeerConnectivity, Alamofire, Kingfisher, Retrofit, Glide, ObjectMapper, Firebase, Google Material</br>
 
-####Tools & Platforms
+#### Tools & Platforms
 > Git, Gitkraken, TortoiseGit, Android, Android Studio, Visual Studio, Windows Forms, iOS, macOS, watchOS, tvOS, Linux, The Movie Database API, News API</br>
 
-####Databases
+#### Databases
 > MySQL, SQLite, Firebase (Cloud Firestore/Cloud Storage), Android Room Persistance, CoreData, Realm</br>
 
-####Design
+#### Design
 > Adobe XD, Sketch, Figma, Adobe Photoshop, Adobe Illustrator</br>
 
-####Others
+#### Others
 > Reverse Engineering, Data Structures & Algorithms, UI & Unit Testing, MicroContollers/Arduino, Pycharm, Data Visualization & Modeling, Machine Learning, Game Development, SpriteKit, Unity
 
 ---
