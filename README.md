@@ -6,7 +6,7 @@ Software & Mobile App Developer📱🖥</br>
 Esports Enthusiasts👾</br>
 Gamer🎮</br>
 Full Sail University Alumni🎓</br>
-> Software Development - March 30, 2018		
+> Software Development - March 30, 2018	</br>
 > Mobile Development - February 7, 2020
 
 ---
