@@ -42,4 +42,3 @@ Full Sail University Alumni🎓</br>
 # Contact
 > Primary Email -> nmtaveras@outlook.com</br>
 > Secondary Email -> nmtaveras@student.fullsail.edu</br>
-> Discord -> NTaveras#6853</br>
